@@ -20,7 +20,8 @@ module.exports = defineConfig({
 
   use: {
     baseURL: 'https://www.copyright.com',
-    headless: false,
+    // Run headless in CI (no DISPLAY) but headed locally for debugging
+    headless: process.env.CI ? true : false,
     launchOptions: {
       slowMo: slowMo
     },
