@@ -5,6 +5,7 @@ const slowMo = process.env.PLAYWRIGHT_SLOWMO ? Number(process.env.PLAYWRIGHT_SLO
 
 module.exports = defineConfig({
   testDir: 'playwright/tests',
+  testMatch: /.*\.spec\.ts$/,
   projects: [
     {
       name: 'chromium',
