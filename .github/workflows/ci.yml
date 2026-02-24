@@ -67,7 +67,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           # Make the artifact name unique per matrix project to avoid 409 conflicts
-          name: playwright-artifacts-${{ matrix.project }}
+          # include run id and job to guarantee uniqueness across parallel jobs and reruns
+          name: playwright-artifacts-${{ matrix.project }}-run${{ github.run_id }}-${{ github.job }}
           path: |
             test-results
             playwright-report
