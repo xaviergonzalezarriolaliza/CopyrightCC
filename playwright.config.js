@@ -11,6 +11,8 @@ module.exports = defineConfig({
     { name: 'chromium', use: { browserName: 'chromium' } },
     { name: 'firefox', use: { browserName: 'firefox' } },
     { name: 'webkit', use: { browserName: 'webkit' } },
+    // Microsoft Edge (Chromium) via channel
+    { name: 'edge', use: { browserName: 'chromium', channel: 'msedge' } },
 
     // Mobile devices (common)
     { name: 'pixel5', use: { ...devices['Pixel 5'] } },
