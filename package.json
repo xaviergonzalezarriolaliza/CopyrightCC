@@ -1,0 +1,15 @@
+{
+  "name": "copyrightcc-e2e",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test:e2e": "cypress run --spec 'cypress/e2e/**'",
+    "cypress:open": "cypress open",
+    "test:playwright": "playwright test",
+    "play": "npx playwright test --project=chromium --headed"
+  },
+  "devDependencies": {
+    "cypress": "^15.10.0",
+    "@playwright/test": "^1.44.0"
+  }
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "name": "JSESSIONID",
+    "value": "BB6E89242C87698E0EEC8B6E6B6A5E55",
+    "domain": "marketplace.copyright.com",
+    "path": "/rs-ui-web",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "C318CE0844CF07C854243E3B1BC93850",
+    "domain": "sso.copyright.com",
+    "path": "/cas",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TGC",
+    "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6IjdmZGQ2NzE4LWFjZjAtNDVjYy04NDg0LTEzNTQxN2Y2NWViYSJ9.ZXlKaGJHY2lPaUprYVhJaUxDSmxibU1pT2lKQk1qVTJRMEpETFVoVE5URXlJaXdpWTNSNUlqb2lTbGRVSWl3aWRIbHdJam9pU2xkVUlpd2lhMmxrSWpvaU5tVTFaRFppWlRVdFpURTJZaTAwTnpRd0xUaGlOekF0WVdaaU9XSmtNamMxT0RZM0luMC4uelh5d0VpZHEzQWh1WUg4cWhlRHJVUS5SdUN1d201Zm9ZRFI2a0RDbk1semF5aW5DbllZbEpvaDRzWlZWUVZQYnRTbFZlVHhYeDRrenlCODYteUZpTlJmeVRPZGRtSzZGLW9nTFkzM2lRT2l4WnJURm5vRkFWWnp6ZUNsaXhaMHJpVkdJdDdZTW1mWlUzWGlqeVJHUGdtZnBUYlQzTUl1c2J0VVExUnk0blZGQW9RalFITWRyVHVFaGZnSktDV093V3JYSXBCQng0TlhrRXNic21xNmw1SHhOclNTX3RiaVRPWDNmWnE4MTY3RkZWaXBVNmNhSE9rMFhzLTJkZ1pxZGJsV2VCanZUdU01NkFqaWp2R21ORG9IejEza1l5RHdYVV91M3JQMEZuVTR4NjRQbW1iZndVMnZGOGd1M09mMklPTS4tVmJXbzJzUmpRbFA5UTNtalUyNDkta2RhTzZfRkVhU1Fxd2xYU0dlUUZN.2bA5yov5r5cTcF6uwxITDtX5HB6g2UOK0uk8zdAeIsdZqndSXjGF9kHdGO9dj5pCt9pDjRo66v6WNmSiz0ev3g",
+    "domain": "sso.copyright.com",
+    "path": "/cas",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "true",
+    "domain": "www.copyright.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "true",
+    "domain": "www.copyright.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "CAS.LANGUAGE",
+    "value": "en",
+    "domain": "sso.copyright.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AWSALBTG",
+    "value": "JcBU+mMe5aDqYFUNne1WACOp0J078fl1co1bNAxYnirbRDlpHQJ6Zmq7A6tdzyqXARk7YEQg/5Q1XDSOJeY3Bh7/YQNcWcw3Xn5C0z83o9l3bHkiXMbK0RYbTCUKIzJ8OVdJgnvM+JTF7VIdhBLH8KFymcxDV+K8sH2HTHI6uez9",
+    "domain": "sso.copyright.com",
+    "path": "/",
+    "expires": 1772568143.785269,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALBTGCORS",
+    "value": "JcBU+mMe5aDqYFUNne1WACOp0J078fl1co1bNAxYnirbRDlpHQJ6Zmq7A6tdzyqXARk7YEQg/5Q1XDSOJeY3Bh7/YQNcWcw3Xn5C0z83o9l3bHkiXMbK0RYbTCUKIzJ8OVdJgnvM+JTF7VIdhBLH8KFymcxDV+K8sH2HTHI6uez9",
+    "domain": "sso.copyright.com",
+    "path": "/",
+    "expires": 1772568143.785475,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AWSALB",
+    "value": "gqrvz9iN2gTDwzCvnNnkzdftARbxHQAb6VhGHWEnMyU17oECGMd9xEz2CJtV3dCJa2dyZX3VOrX1YvA68+w8ufJSua5FwINF3VsBAmVjZxr2hEQVUP8aL9939tHS",
+    "domain": "sso.copyright.com",
+    "path": "/",
+    "expires": 1772568143.785564,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "gqrvz9iN2gTDwzCvnNnkzdftARbxHQAb6VhGHWEnMyU17oECGMd9xEz2CJtV3dCJa2dyZX3VOrX1YvA68+w8ufJSua5FwINF3VsBAmVjZxr2hEQVUP8aL9939tHS",
+    "domain": "sso.copyright.com",
+    "path": "/",
+    "expires": 1772568143.785651,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "RS.ORGANIZATION",
+    "value": "a96a8b92-6104-4e5e-b05e-a7c21ec5df45",
+    "domain": "marketplace.copyright.com",
+    "path": "/",
+    "expires": 1803499343.612581,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "RS.LOCATION",
+    "value": "00c9ff45-860e-4557-9f8e-f200146d9c46",
+    "domain": "marketplace.copyright.com",
+    "path": "/",
+    "expires": 1803499343.612653,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "RS.ACCOUNT",
+    "value": "42baaf3c-8424-4c98-b60e-3958cc78b496",
+    "domain": "marketplace.copyright.com",
+    "path": "/",
+    "expires": 1803499343.612709,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AWSALBTG",
+    "value": "Q7K1QIuzRFgt9tOUbnnmMkb4M2lf9CbxaIOn62G4Rh8xkXyZa67d2N0/9bCtddoUnBaQdi7ROF4QamuKSUtTzhrV2Uys7VfbLeNcbDfzDcrvHyUPKlDh55Kvlsbw+NytVDUa0fYbtlj21eJGJzicwFOXsnflArLBYLT6/ENGbzue",
+    "domain": "marketplace.copyright.com",
+    "path": "/",
+    "expires": 1772568146.201755,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALBTGCORS",
+    "value": "Q7K1QIuzRFgt9tOUbnnmMkb4M2lf9CbxaIOn62G4Rh8xkXyZa67d2N0/9bCtddoUnBaQdi7ROF4QamuKSUtTzhrV2Uys7VfbLeNcbDfzDcrvHyUPKlDh55Kvlsbw+NytVDUa0fYbtlj21eJGJzicwFOXsnflArLBYLT6/ENGbzue",
+    "domain": "marketplace.copyright.com",
+    "path": "/",
+    "expires": 1772568146.20197,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AWSALB",
+    "value": "mKNfqkV84SNqQbG3uhvKDO9Z1bgWEDOMWlqoX0n2Ih/zrKEmbnY4YC9zn1bAVsYVVw1xVvcv4Qisv//OmPDp/lv58JQprff3OAWRg+AUbmX3xmBA0F9alTKkJ7rY",
+    "domain": "marketplace.copyright.com",
+    "path": "/",
+    "expires": 1772568146.202053,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "mKNfqkV84SNqQbG3uhvKDO9Z1bgWEDOMWlqoX0n2Ih/zrKEmbnY4YC9zn1bAVsYVVw1xVvcv4Qisv//OmPDp/lv58JQprff3OAWRg+AUbmX3xmBA0F9alTKkJ7rY",
+    "domain": "marketplace.copyright.com",
+    "path": "/",
+    "expires": 1772568146.202121,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  }
+]
