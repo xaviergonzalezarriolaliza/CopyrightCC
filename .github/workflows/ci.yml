@@ -66,7 +66,8 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: playwright-artifacts
+          # Make the artifact name unique per matrix project to avoid 409 conflicts
+          name: playwright-artifacts-${{ matrix.project }}
           path: |
             test-results
             playwright-report
