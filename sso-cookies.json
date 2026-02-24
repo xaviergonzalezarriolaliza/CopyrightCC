@@ -1,7 +1,7 @@
 [
   {
     "name": "JSESSIONID",
-    "value": "BB6E89242C87698E0EEC8B6E6B6A5E55",
+    "value": "65F147B853A9A3B79604ED4A847B43C0",
     "domain": "marketplace.copyright.com",
     "path": "/rs-ui-web",
     "expires": -1,
@@ -11,7 +11,7 @@
   },
   {
     "name": "JSESSIONID",
-    "value": "C318CE0844CF07C854243E3B1BC93850",
+    "value": "50E575E64AC380FC614C1C21621845F4",
     "domain": "sso.copyright.com",
     "path": "/cas",
     "expires": -1,
@@ -21,7 +21,7 @@
   },
   {
     "name": "TGC",
-    "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6IjdmZGQ2NzE4LWFjZjAtNDVjYy04NDg0LTEzNTQxN2Y2NWViYSJ9.ZXlKaGJHY2lPaUprYVhJaUxDSmxibU1pT2lKQk1qVTJRMEpETFVoVE5URXlJaXdpWTNSNUlqb2lTbGRVSWl3aWRIbHdJam9pU2xkVUlpd2lhMmxrSWpvaU5tVTFaRFppWlRVdFpURTJZaTAwTnpRd0xUaGlOekF0WVdaaU9XSmtNamMxT0RZM0luMC4uelh5d0VpZHEzQWh1WUg4cWhlRHJVUS5SdUN1d201Zm9ZRFI2a0RDbk1semF5aW5DbllZbEpvaDRzWlZWUVZQYnRTbFZlVHhYeDRrenlCODYteUZpTlJmeVRPZGRtSzZGLW9nTFkzM2lRT2l4WnJURm5vRkFWWnp6ZUNsaXhaMHJpVkdJdDdZTW1mWlUzWGlqeVJHUGdtZnBUYlQzTUl1c2J0VVExUnk0blZGQW9RalFITWRyVHVFaGZnSktDV093V3JYSXBCQng0TlhrRXNic21xNmw1SHhOclNTX3RiaVRPWDNmWnE4MTY3RkZWaXBVNmNhSE9rMFhzLTJkZ1pxZGJsV2VCanZUdU01NkFqaWp2R21ORG9IejEza1l5RHdYVV91M3JQMEZuVTR4NjRQbW1iZndVMnZGOGd1M09mMklPTS4tVmJXbzJzUmpRbFA5UTNtalUyNDkta2RhTzZfRkVhU1Fxd2xYU0dlUUZN.2bA5yov5r5cTcF6uwxITDtX5HB6g2UOK0uk8zdAeIsdZqndSXjGF9kHdGO9dj5pCt9pDjRo66v6WNmSiz0ev3g",
+    "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImVjNjFiYmVmLWY5MjAtNGU3My04MjI0LTVhYmZhYjdhYTA0YyJ9.ZXlKaGJHY2lPaUprYVhJaUxDSmxibU1pT2lKQk1qVTJRMEpETFVoVE5URXlJaXdpWTNSNUlqb2lTbGRVSWl3aWRIbHdJam9pU2xkVUlpd2lhMmxrSWpvaVpXSTBOamhqTXpVdFpHRmxaQzAwWWpKa0xUaGtZV1l0TUdJelpEVTBaR1F5TnpSakluMC4uaGszc0VNb0pEWnFvdmxwNHROVXpIZy5uSzdITXZhMmxOdGxrOHE4MUgzcGdVekE5cE1LamtKNUtMNGlZb1VNSEZHNE5mMzljWURlaXI3RV83ZFdmXzBRV3RzSVBSbzhZMGJjZEZiY3lwbFVFSDlUbUFDTXZNVW5sekllTjNVUXlXNGJjU2RUa2RZLVhyNmgwOFBVUGE5RW1RYm95MGVGSGNtZE9JNS1QbGJha2RTbG4xSVNXcXpyY1gwdDVPRWpTYTl2c0oydHJ1dVRlajJSRkEycVVaaEZxOGY4NWVlbnlyR0xzTEJBNTQ5ZDV5eXd1aEVKVUxWcUthY1hYcTlsdGNfZ050WkVoR3ptWVpwaUtrR0hmTExMMHhfRXVNSEdLUXMtdVRMNjQ0MmtlUmQ0cFNhaFhkdktadE1HcUNyOXRJMC5EaUR3MW45V3NkaUFkTU5MakEzYVpjLTVVRWt4WDl0N2xCSHUwTnFDNE9r.qTupk4FArqLzngQ0e5jXcKYvIfkduuf92EikKtfpHV3N4cdaAuQ2_C_ALM_BDlQphtGw-3ILJf1lthr5l03Ekw",
     "domain": "sso.copyright.com",
     "path": "/cas",
     "expires": -1,
@@ -61,40 +61,40 @@
   },
   {
     "name": "AWSALBTG",
-    "value": "JcBU+mMe5aDqYFUNne1WACOp0J078fl1co1bNAxYnirbRDlpHQJ6Zmq7A6tdzyqXARk7YEQg/5Q1XDSOJeY3Bh7/YQNcWcw3Xn5C0z83o9l3bHkiXMbK0RYbTCUKIzJ8OVdJgnvM+JTF7VIdhBLH8KFymcxDV+K8sH2HTHI6uez9",
+    "value": "kzl/A9KhFfpSfQgCITuCMq6LVDAeY2Y7hkXXfiGMSL6NyzHQez9FBY865yvdMt/w6GOIYVamypOsP4ZKF/o9wRrQcCKppHsSXYse5Cn6RbfXVMHJ2dPe20LrjRWiYFxBAJDomOetjT1pu6HV+QIPZrj+2/meGC2dgTyVopweScHu",
     "domain": "sso.copyright.com",
     "path": "/",
-    "expires": 1772568143.785269,
+    "expires": 1772570062.469428,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "AWSALBTGCORS",
-    "value": "JcBU+mMe5aDqYFUNne1WACOp0J078fl1co1bNAxYnirbRDlpHQJ6Zmq7A6tdzyqXARk7YEQg/5Q1XDSOJeY3Bh7/YQNcWcw3Xn5C0z83o9l3bHkiXMbK0RYbTCUKIzJ8OVdJgnvM+JTF7VIdhBLH8KFymcxDV+K8sH2HTHI6uez9",
+    "value": "kzl/A9KhFfpSfQgCITuCMq6LVDAeY2Y7hkXXfiGMSL6NyzHQez9FBY865yvdMt/w6GOIYVamypOsP4ZKF/o9wRrQcCKppHsSXYse5Cn6RbfXVMHJ2dPe20LrjRWiYFxBAJDomOetjT1pu6HV+QIPZrj+2/meGC2dgTyVopweScHu",
     "domain": "sso.copyright.com",
     "path": "/",
-    "expires": 1772568143.785475,
+    "expires": 1772570062.469753,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
   },
   {
     "name": "AWSALB",
-    "value": "gqrvz9iN2gTDwzCvnNnkzdftARbxHQAb6VhGHWEnMyU17oECGMd9xEz2CJtV3dCJa2dyZX3VOrX1YvA68+w8ufJSua5FwINF3VsBAmVjZxr2hEQVUP8aL9939tHS",
+    "value": "nX+mpsJCF/aIyurjI0FWuDr88rzh9BZanORf5CBP17+d/LP2xEL1u2PQQ9QZ7W3YshnKy1Cdip5Ps+8+ZEM95zUwSQXzeWmzgkXcUv13uTVy0GEPhaPlG5GKuGgk",
     "domain": "sso.copyright.com",
     "path": "/",
-    "expires": 1772568143.785564,
+    "expires": 1772570062.470025,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "AWSALBCORS",
-    "value": "gqrvz9iN2gTDwzCvnNnkzdftARbxHQAb6VhGHWEnMyU17oECGMd9xEz2CJtV3dCJa2dyZX3VOrX1YvA68+w8ufJSua5FwINF3VsBAmVjZxr2hEQVUP8aL9939tHS",
+    "value": "nX+mpsJCF/aIyurjI0FWuDr88rzh9BZanORf5CBP17+d/LP2xEL1u2PQQ9QZ7W3YshnKy1Cdip5Ps+8+ZEM95zUwSQXzeWmzgkXcUv13uTVy0GEPhaPlG5GKuGgk",
     "domain": "sso.copyright.com",
     "path": "/",
-    "expires": 1772568143.785651,
+    "expires": 1772570062.470213,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
@@ -104,7 +104,7 @@
     "value": "a96a8b92-6104-4e5e-b05e-a7c21ec5df45",
     "domain": "marketplace.copyright.com",
     "path": "/",
-    "expires": 1803499343.612581,
+    "expires": 1803501263.348306,
     "httpOnly": true,
     "secure": true,
     "sameSite": "None"
@@ -114,7 +114,7 @@
     "value": "00c9ff45-860e-4557-9f8e-f200146d9c46",
     "domain": "marketplace.copyright.com",
     "path": "/",
-    "expires": 1803499343.612653,
+    "expires": 1803501263.348377,
     "httpOnly": true,
     "secure": true,
     "sameSite": "None"
@@ -124,47 +124,47 @@
     "value": "42baaf3c-8424-4c98-b60e-3958cc78b496",
     "domain": "marketplace.copyright.com",
     "path": "/",
-    "expires": 1803499343.612709,
+    "expires": 1803501263.348441,
     "httpOnly": true,
     "secure": true,
     "sameSite": "None"
   },
   {
     "name": "AWSALBTG",
-    "value": "Q7K1QIuzRFgt9tOUbnnmMkb4M2lf9CbxaIOn62G4Rh8xkXyZa67d2N0/9bCtddoUnBaQdi7ROF4QamuKSUtTzhrV2Uys7VfbLeNcbDfzDcrvHyUPKlDh55Kvlsbw+NytVDUa0fYbtlj21eJGJzicwFOXsnflArLBYLT6/ENGbzue",
+    "value": "ZkCczljPLZafrS7UEwyO6mOCziASw5axhI5+1DzZ6msYoVl5T1js5tSSn5880LzCKjJLKuryMKPreo5I5rRsZOQr1DWzVZa4nXKcXZOoyJ446VTt4O1abp2gCwvieHhtnglYNVz5TfmhmxITksCr7ezsDMwmyN6u2lVkrddkEEyM",
     "domain": "marketplace.copyright.com",
     "path": "/",
-    "expires": 1772568146.201755,
+    "expires": 1772570065.438674,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "AWSALBTGCORS",
-    "value": "Q7K1QIuzRFgt9tOUbnnmMkb4M2lf9CbxaIOn62G4Rh8xkXyZa67d2N0/9bCtddoUnBaQdi7ROF4QamuKSUtTzhrV2Uys7VfbLeNcbDfzDcrvHyUPKlDh55Kvlsbw+NytVDUa0fYbtlj21eJGJzicwFOXsnflArLBYLT6/ENGbzue",
+    "value": "ZkCczljPLZafrS7UEwyO6mOCziASw5axhI5+1DzZ6msYoVl5T1js5tSSn5880LzCKjJLKuryMKPreo5I5rRsZOQr1DWzVZa4nXKcXZOoyJ446VTt4O1abp2gCwvieHhtnglYNVz5TfmhmxITksCr7ezsDMwmyN6u2lVkrddkEEyM",
     "domain": "marketplace.copyright.com",
     "path": "/",
-    "expires": 1772568146.20197,
+    "expires": 1772570065.438913,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
   },
   {
     "name": "AWSALB",
-    "value": "mKNfqkV84SNqQbG3uhvKDO9Z1bgWEDOMWlqoX0n2Ih/zrKEmbnY4YC9zn1bAVsYVVw1xVvcv4Qisv//OmPDp/lv58JQprff3OAWRg+AUbmX3xmBA0F9alTKkJ7rY",
+    "value": "jFsoOZSUroFTwAATGhP/mEFALnsgT5PkwD+LFpT9pcj6IiWarFZLbuIrXU9to3J4RRGRFSydHHuK37DT3BsZDLwp3CeJ1dwC+aCua2BO7q6k368+WEQM6cAJeyM9",
     "domain": "marketplace.copyright.com",
     "path": "/",
-    "expires": 1772568146.202053,
+    "expires": 1772570065.439022,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "AWSALBCORS",
-    "value": "mKNfqkV84SNqQbG3uhvKDO9Z1bgWEDOMWlqoX0n2Ih/zrKEmbnY4YC9zn1bAVsYVVw1xVvcv4Qisv//OmPDp/lv58JQprff3OAWRg+AUbmX3xmBA0F9alTKkJ7rY",
+    "value": "jFsoOZSUroFTwAATGhP/mEFALnsgT5PkwD+LFpT9pcj6IiWarFZLbuIrXU9to3J4RRGRFSydHHuK37DT3BsZDLwp3CeJ1dwC+aCua2BO7q6k368+WEQM6cAJeyM9",
     "domain": "marketplace.copyright.com",
     "path": "/",
-    "expires": 1772568146.202121,
+    "expires": 1772570065.43912,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
