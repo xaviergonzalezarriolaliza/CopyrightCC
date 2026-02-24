@@ -5,8 +5,8 @@ test('login flow smoke', async ({ browser }) => {
   const context = await browser.newContext()
   const page = await context.newPage()
 
-  const USERNAME = process.env.TEST_USER || 'xavier.gonzalez.arriola@gmail.com'
-  const PASSWORD = process.env.TEST_PASS || '@RzHsJziGPzDQ@5'
+  const USERNAME = 'xavier.gonzalez.arriola@gmail.com'
+  const PASSWORD = '@RzHsJziGPzDQ@5'
 
   await loginWithSSO(context, page, { username: USERNAME, password: PASSWORD })
 

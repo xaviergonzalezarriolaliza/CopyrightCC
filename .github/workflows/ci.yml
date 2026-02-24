@@ -23,6 +23,7 @@ jobs:
     name: Run tests for ${{ matrix.project }}
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 4
       matrix:
         node-version: [18.x]
         project: [chromium, firefox, webkit, edge, pixel5, iphone13, ipad-gen7]
