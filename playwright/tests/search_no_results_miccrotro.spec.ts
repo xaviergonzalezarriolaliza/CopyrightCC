@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test'
-import { loginWithSSO } from '../helpers/login'
+import { loginCCC } from '../helpers/login'
 
 test('search for "miccrotro catalunya" returns no results', async ({ browser }) => {
   const context = await browser.newContext()
@@ -8,7 +8,7 @@ test('search for "miccrotro catalunya" returns no results', async ({ browser }) 
   const USERNAME = process.env.TEST_USER || 'xavier.gonzalez.arriola@gmail.com'
   const PASSWORD = process.env.TEST_PASS || '@RzHsJziGPzDQ@5'
 
-  await loginWithSSO(context, page, { username: USERNAME, password: PASSWORD })
+  await loginCCC(context, page, { username: USERNAME, password: PASSWORD })
 
   const marketplace = 'https://marketplace.copyright.com/rs-ui-web/mp'
   await page.goto(marketplace, { waitUntil: 'networkidle' })

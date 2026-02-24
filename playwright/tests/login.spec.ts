@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test'
-import { loginWithSSO } from '../helpers/login'
+import { loginCCC } from '../helpers/login'
 
 test('login flow smoke', async ({ browser }) => {
   const context = await browser.newContext()
@@ -8,10 +8,10 @@ test('login flow smoke', async ({ browser }) => {
   const USERNAME = 'xavier.gonzalez.arriola@gmail.com'
   const PASSWORD = '@RzHsJziGPzDQ@5'
 
-  await loginWithSSO(context, page, { username: USERNAME, password: PASSWORD })
+  await loginCCC(context, page, { username: USERNAME, password: PASSWORD })
 
   // basic assertion: after login try marketplace
-  await page.goto('https://marketplace.copyright.com/rs-ui-web/mp', { waitUntil: 'networkidle' })
-  expect(page.url()).toContain('/mp')
+  await page.goto('https://marketplace.copyright.com/rs-ui-web/mp')
+  await expect(page).toHaveURL(/\/mp/) 
   await context.close()
 })

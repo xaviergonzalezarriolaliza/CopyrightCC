@@ -1,6 +1,6 @@
 import type { BrowserContext, Page } from '@playwright/test'
 
-export async function loginWithSSO(
+export async function loginCCC(
   context: BrowserContext,
   page: Page,
   { username, password, ssoUrl }: { username?: string; password?: string; ssoUrl?: string } = {}

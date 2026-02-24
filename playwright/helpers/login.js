@@ -1,4 +1,4 @@
-async function loginWithSSO(context, page, { username, password, ssoUrl } = {}) {
+async function loginCCC(context, page, { username, password, ssoUrl } = {}) {
   // Pre-set OneTrust cookies to avoid banner where possible
   try {
     await context.addCookies([
@@ -63,4 +63,4 @@ async function loginWithSSO(context, page, { username, password, ssoUrl } = {}) 
   return page
 }
 
-module.exports = { loginWithSSO }
+module.exports = { loginCCC }
