@@ -6,10 +6,14 @@
     "test:e2e": "cypress run --spec 'cypress/e2e/**'",
     "cypress:open": "cypress open",
     "test:playwright": "playwright test",
-    "play": "npx playwright test --project=chromium --headed"
+    "play": "npx playwright test --project=chromium --headed",
+    "prepare-ts": "npx -y ts-node --version || true"
   },
   "devDependencies": {
     "cypress": "^15.10.0",
-    "@playwright/test": "^1.44.0"
+    "@playwright/test": "^1.44.0",
+    "typescript": "^5.1.6",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.4.2"
   }
 }
