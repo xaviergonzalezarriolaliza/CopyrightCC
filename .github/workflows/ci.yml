@@ -58,9 +58,9 @@ jobs:
         run: |
           echo "Running tests for project: ${{ matrix.project }}"
           if npm run | grep -q "test:playwright"; then
-            npm run test:playwright --silent -- --project=${{ matrix.project }}
+            npm run test:playwright --silent -- --project=${{ matrix.project }} --reporter=list,html
           else
-            npx playwright test --project=${{ matrix.project }} --reporter=list
+            npx playwright test --project=${{ matrix.project }} --reporter=list,html
           fi
 
       - name: Upload Playwright test artifacts
