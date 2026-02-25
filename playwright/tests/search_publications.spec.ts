@@ -13,16 +13,7 @@ test('login and search for Albert Einstein publications', async ({ browser }) =>
   const marketplace = 'https://marketplace.copyright.com/rs-ui-web/mp'
   await page.goto(marketplace, { waitUntil: 'networkidle' })
 
-  const searchCandidates = [
-    'input[type="search"]',
-    'input[name="q"]',
-    'input[name="search"]',
-    'input[placeholder*="Search"]',
-    'input[aria-label*="Search"]',
-    '#search',
-    '.search-input',
-    'input[type="text"]'
-  ]
+  const searchCandidates = ['input[type="search"]']
 
   let searchSel: string | null = null
   for (const sel of searchCandidates) {
