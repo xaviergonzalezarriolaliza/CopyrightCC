@@ -11,14 +11,14 @@ on:
       - '.github/workflows/**'
   pull_request:
     paths:
-        # Allow manual runs from the Actions UI or `gh workflow run`
-        workflow_dispatch:
       - '**/*.yml'
       - '**/*.yaml'
       - '**/*.js'
       - '**/*.ts'
       - '**/*.spec.js'
       - '.github/workflows/**'
+  # Allow manual runs from the Actions UI or `gh workflow run`
+  workflow_dispatch:
 
 jobs:
   test:
