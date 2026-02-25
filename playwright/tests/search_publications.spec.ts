@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from '../helpers/fixtures'
 import { loginCCC } from '../helpers/login'
 
 test('login and search for Albert Einstein publications', async ({ browser }) => {

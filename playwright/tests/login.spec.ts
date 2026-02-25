@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from '../helpers/fixtures'
 import { loginCCC } from '../helpers/login'
 import { startJSCoverage, stopJSCoverage } from '../helpers/coverage'
 
