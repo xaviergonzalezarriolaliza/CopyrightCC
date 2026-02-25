@@ -75,3 +75,27 @@ jobs:
             playwright-report
             *.png
             *.json
+
+  publish-pages:
+    name: Publish Playwright HTML report to GitHub Pages
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Download Chromium report artifact
+        uses: actions/download-artifact@v3
+        with:
+          # artifact name created by test job for chromium project
+          name: playwright-artifacts-chromium-run${{ github.run_id }}-test
+          path: site
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: site/playwright-report
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
