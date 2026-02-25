@@ -11,6 +11,8 @@ on:
       - '.github/workflows/**'
   pull_request:
     paths:
+        # Allow manual runs from the Actions UI or `gh workflow run`
+        workflow_dispatch:
       - '**/*.yml'
       - '**/*.yaml'
       - '**/*.js'
