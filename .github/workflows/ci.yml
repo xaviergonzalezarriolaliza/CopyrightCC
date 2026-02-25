@@ -60,9 +60,9 @@ jobs:
         run: |
           echo "Running tests for project: ${{ matrix.project }}"
           if npm run | grep -q "test:playwright"; then
-            npm run test:playwright --silent -- --project=${{ matrix.project }} --reporter=list,html
+            npm run test:playwright --silent -- --project=${{ matrix.project }} --reporter=list
           else
-            npx playwright test --project=${{ matrix.project }} --reporter=list,html
+            npx playwright test --project=${{ matrix.project }} --reporter=list
           fi
 
       - name: Upload Playwright test artifacts
@@ -74,9 +74,11 @@ jobs:
           name: playwright-artifacts-${{ matrix.project }}-run${{ github.run_id }}-${{ github.job }}
           path: |
             test-results
+            # keep playwright-report if present but HTML generation disabled in CI
             playwright-report
             *.png
             *.json
+            coverage
 
   publish-pages:
     name: Publish Playwright HTML report to GitHub Pages
