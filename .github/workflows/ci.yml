@@ -94,10 +94,11 @@ jobs:
           name: playwright-artifacts-chromium-run${{ github.run_id }}-test
           path: site
 
-      - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v2
+      - name: Publish report to GitHub Pages (gh-pages)
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          path: site/playwright-report
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: site/playwright-report
+          # optional: set target branch (default is gh-pages)
+          publish_branch: gh-pages
+          allow_empty_commit: true
